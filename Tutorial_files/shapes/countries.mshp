@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SAGA_METADATA>
+  <HISTORY>
+    <MODULE>Cut Shapes Layer</MODULE>
+    <OPTION type="choice" id="METHOD" name="Method">1</OPTION>
+    <OPTION type="choice" id="TARGET" name="Extent">1</OPTION>
+    <Shapes>1 object (countries))</Shapes>
+    <DATA_LIST type="shapes_list" id="SHAPES" name="Shapes">
+      <DATA>E:\HRclim\ilwismaps\countries.shp</DATA>
+      <FILE>E:\HRclim\ilwismaps\countries.shp</FILE>
+    </DATA_LIST>
+    <OPTION type="grid_system" id="GRID" name="Grid Project">
+      <CELLSIZE>1000.000000</CELLSIZE>
+      <XMIN>467000.000000</XMIN>
+      <XMAX>874000.000000</XMAX>
+      <YMIN>4879000.000000</YMIN>
+      <YMAX>5286000.000000</YMAX>
+    </OPTION>
+  </HISTORY>
+  <SOURCE>
+    <FILE>E:\HRclim\radar\RADAR_Bilogora2008\countries.shp</FILE>
+  </SOURCE>
+</SAGA_METADATA>
