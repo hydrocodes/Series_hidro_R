@@ -1,0 +1,4 @@
+#### ARCHIVOS RASTERS ######
+1. Descargar los archivos contenidos en el directorio: Tutorial_files
+2. Descargar los archivos rasters desde este link y copiarlos a la carpeta anterior
+https://drive.google.com/drive/folders/1-LPPIdk-T-T-c2u23u89mIUzNWoLNIfi?usp=sharing
