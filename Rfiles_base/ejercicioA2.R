@@ -1,0 +1,8 @@
+rain<-c(20, 21.2, 49, 10.5, 15.1, 19, 31, 20.2)
+mean(rain)
+median(rain)
+sd(rain)
+var(rain)
+summary(rain)
+boxplot(rain)
+boxplot(rain, ylab="P (mm/año)")
